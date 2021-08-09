@@ -1,4 +1,7 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
 
 @font-face {
     font-family: 'Fjalla One';
@@ -111,7 +114,7 @@ nav a:hover {
     nav {
         display: none;
     }
-    
+
     .vertical-nav {
         display: block;
     }
