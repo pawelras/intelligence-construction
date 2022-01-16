@@ -7,7 +7,7 @@ A website for a costruction and consulting company.
  This website provides an overview or the services provided by a construction company as well as compay history, sectors covered as well as key contacts
 
 ## Technologies
--html
--css
--flexbox
--iframes
+- html
+- css
+- flexbox
+- iframes
